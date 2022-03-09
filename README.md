@@ -9,4 +9,4 @@ Implementation of AI-based approaches to solving a specific use case: identifyin
 - Generative Adversarial Networks (GANs) 
 <br />
 
-This repository provides a set of Jupyter Notebooks with documentation for the implementation of these techniques.
+This repository provides a set of Jupyter Notebooks, Markdowns with documentation for the implementation of these techniques.
